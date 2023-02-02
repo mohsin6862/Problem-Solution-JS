@@ -9,8 +9,12 @@ function toFindLargestNumberOfArray (array){
             max = array[i];
             
         }
+        
+        
         }
         return max;
+
+
     }
     let array = [10, 9, 41, 22, 1001, 6, 99, 88];
     var maxValue = toFindLargestNumberOfArray(array);
